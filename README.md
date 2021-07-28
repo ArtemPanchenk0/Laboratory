@@ -1,1 +1,1 @@
-# ArtemPanchenk0/Lab-Lab
+# ArtemPanchenk0/Laboratory
